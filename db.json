@@ -26,37 +26,25 @@
         {
           "name": "kick3",
           "notes": [
-            1,
-            2,
-            4,
-            5,
-            9,
-            10,
-            13
+         
           ]
         },
         {
           "name": "snare1",
           "notes": [
-            3,
-            7
+            
           ]
         },
         {
           "name": "hh_open3",
           "notes": [
-            1,
-            12
+           
           ]
         },
         {
           "name": "hh_closed1",
           "notes": [
-            4,
-            7,
-            10,
-            1,
-            13
+         
           ]
         }
       ],
@@ -67,39 +55,25 @@
         {
           "name": "kick3",
           "notes": [
-            1,
-            2,
-            4,
-            5,
-            9,
-            10,
-            13
+     
           ]
         },
         {
           "name": "snare1",
           "notes": [
-            3,
-            7
+      
           ]
         },
         {
           "name": "hh_open3",
           "notes": [
-            1,
-            12,
-            10,
-            13
+        
           ]
         },
         {
           "name": "hh_closed1",
           "notes": [
-            4,
-            7,
-            10,
-            1,
-            13
+        
           ]
         }
       ],
